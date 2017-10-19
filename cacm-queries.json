@@ -1,0 +1,20 @@
+{
+    "query": [
+      {
+        "number": "4",
+        "text": "  im interested in mechanisms for communicating between disjoint processes possibly  but not exclusively  in a distributed environment   i would rather see descriptions of complete mechanisms  with or without implementations as opposed to theoretical work on the abstract problem   remote procedure calls and message passing are examples of my interests   "
+      },
+      {
+        "number": "7",
+        "text": "  i am interested in distributed algorithms   concurrent programs in which processes communicate and synchronize by using message passing areas of particular interest include fault tolerance and techniques for understanding the correctness of these algorithms   "
+      },
+      {
+        "number": "16",
+        "text": "  find all descriptions of file handling in operating systems based on multiple processes and message passing   "
+      },
+      {
+        "number": "18",
+        "text": "  languages and compilers for parallel processors  especially highly horizontal microcoded machines  code compaction   "
+      }
+    ]
+}

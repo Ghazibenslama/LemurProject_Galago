@@ -1,0 +1,7 @@
+{
+  "inputPath":"wiki-small",
+  "indexPath":"wiki-small-index-2",
+  "nonStemmedPostings":true,
+  "stemmedPostings":false,
+  "stopWords":[]
+}
